@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>register</tiotle>
+</head>
+<body>
+<form>
+name:<input type="text" name= "lata" />
+email:<input type="email" emai="lata@1234"/>
+</form>

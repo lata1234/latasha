@@ -1,0 +1,13 @@
+create databse Products;
+create table data(productname varchar(20),
+ price float, 
+category varchar(20), 
+quantity int, 
+purchasedate date, 
+expirydate date);
+insert into data( name,price,category,quantity,purchasedate,expirydate)
+values('trichie',50.00,books,1, 29/02/2018 , 30/09/2018);
+insert into data( name,price,category,quantity,purchasedate,expirydate)
+values('dress',5000.00,clothes,1, 29/01/2018 , 30/09/2020);
+
+
